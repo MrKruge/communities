@@ -14,11 +14,40 @@ Event details:
 
 🏠 Location: Schuberg Philis https://maps.app.goo.gl/h5MtzPcgoUzBet2y7
 
-🎫 Get your FREE ticket: coming soon
+🎫 Get your FREE ticket: www.azug.nl
 
-🎙️ Call for Speakers: coming soon 
+🎙️ Call for Speakers:  https://sessionize.com/global-azure-heroes-2025
 
 💶 Sponsors: We’re on the lookout for sponsors! Reach out to the organizing team at Azure User Group Netherlands
 If you have any questions, feedback, or thoughts, please get in touch with the community organizers at:
 
 Contact djskruge@gmail.com
+
+Agenda: 
+Agenda:
+
+14:00 - 14:15: Networking and light refreshments
+
+14:15 - 14:45 Keynote
+
+15:00 - 15:45: Session 1
+
+15:45 - 16:00: Break
+
+16:00 - 16:45: Session 2
+
+16:45 - 17:00: Break
+
+17:00 - 17:45: Session 3
+
+17:45 - 18:00: Break
+
+18:00 - 18:45: Session 4
+
+18:45 - 19:00: Break
+
+19:00 - 19:45: Session 5
+
+20:00 - 21:00: Networking , BBQ , drinks
+
+Stay connected and use the social hashtags #GlobalAzureNL and #GlobalAzure to share your experiences and insights. For any questions, feedback, or contributions, reach out to the community organizers at djskruge@gmail.com . Mark your calendars and prepare for an unforgettable Azure adventure!
